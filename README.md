@@ -1,5 +1,7 @@
 # Practicle machine learning at astro hack week
 
+@ZackAkil
+
 
 ## Use [Colab](http://colab.research.google.com/) for free, easy, and colabrative Jupyter Notebooks
 http://colab.research.google.com/

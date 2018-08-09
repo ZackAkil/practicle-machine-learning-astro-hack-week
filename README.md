@@ -1,7 +1,7 @@
 # Practicle machine learning at astro hack week
 
 
-## Use [Colab](http://colab.research.google.com/) for easy and colabrative Jupyter Notebooks
+## Use [Colab](http://colab.research.google.com/) for free, easy, and colabrative Jupyter Notebooks
 http://colab.research.google.com/
 
 ## Using sklearn to build an iris classifier 
